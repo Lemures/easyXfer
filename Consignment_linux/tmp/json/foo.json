@@ -1,0 +1,11 @@
+{
+  "id": "73923",
+  "description": "This is a test consignment",
+  "weight": 550,
+  "containers": [
+    {"id": "1i212j", "customer_id": "cust001", "user_id": "user001", "origin": "Manchester, United Kingdom" },
+    {"id": "jfgh", "customer_id": "cust002", "user_id": "user001", "origin": "Manchester, United Kingdom" },
+    {"id": "yasd78a", "customer_id": "cust002", "user_id": "user001", "origin": "Manchester, United Kingdom" }
+  ],
+  "vessel_id": "vessel001"
+}
